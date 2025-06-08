@@ -12,7 +12,4 @@ My goal is to break down complex ideas into understandable concepts. Feel free t
 
 ---
 
-## Latest Posts
 
-* [My First Post: An Introduction to Quantum Mechanics](posts/introduction-to-quantum-mechanics.md)
-* [Understanding Backpropagation in Neural Networks](posts/understanding-backpropagation.md)
